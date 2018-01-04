@@ -1,5 +1,5 @@
 #coding:utf-8
-__author__ = 'hang'
+
 
 import warnings
 warnings.filterwarnings("ignore")
